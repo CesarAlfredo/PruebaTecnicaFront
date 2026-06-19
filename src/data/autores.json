@@ -1,0 +1,32 @@
+[
+  {
+    "id": "autor-cervantes-uuiid-mock",
+    "nombre": "MIGUEL DE CERVANTES",
+    "fechaNacimiento": "1547-09-29"
+  },
+  {
+    "id": "autor-marquez-uuiid-mock",
+    "nombre": "GABRIEL GARCIA MARQUEZ",
+    "fechaNacimiento": "1927-03-06"
+  },
+  {
+    "id": "autor-rulfo-uuiid-mock",
+    "nombre": "JUAN RULFO",
+    "fechaNacimiento": "1917-05-16"
+  },
+  {
+    "id": "autor-paz-uuiid-mock",
+    "nombre": "OCTAVIO PAZ",
+    "fechaNacimiento": "1914-03-31"
+  },
+  {
+    "id": "autor-cortazar-uuiid-mock",
+    "nombre": "JULIO CORTAZAR",
+    "fechaNacimiento": "1914-08-26"
+  },
+  {
+    "id": "autor-borges-uuiid-mock",
+    "nombre": "JORGE LUIS BORGES",
+    "fechaNacimiento": "1899-08-24"
+  }
+]

@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+/*  Tailwind v4 que use la clase .dark inyectada en el HTML */
+@variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --color-totalplay-pink: #E10098;
+  --color-totalplay-green: #8BC53F;
+}
+
+/* sutil y progresivo */
+body {
+  transition: background-color 1000ms ease-in-out, color 1000ms ease-in-out;
+}

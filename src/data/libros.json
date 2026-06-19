@@ -1,0 +1,58 @@
+[
+  {
+    "id": "libro-1",
+    "titulo": "DON QUIJOTE DE LA MANCHA",
+    "isbn": "9788467034172",
+    "autorId": "autor-cervantes-uuiid-mock",
+    "paginas": 864,
+    "urlPortada": "https://covers.openlibrary.org/b/isbn/9788467034172-L.jpg"
+  },
+  {
+    "id": "libro-2",
+    "titulo": "CIEN ANOS DE SOLEDAD",
+    "isbn": "9780307474728",
+    "autorId": "autor-marquez-uuiid-mock",
+    "paginas": 496,
+    "urlPortada": "https://covers.openlibrary.org/b/isbn/9780307474728-L.jpg"
+  },
+  {
+    "id": "libro-3",
+    "titulo": "PEDRO PARAMO",
+    "isbn": "9788437604183",
+    "autorId": "autor-rulfo-uuiid-mock",
+    "paginas": 128,
+    "urlPortada": "https://covers.openlibrary.org/b/isbn/9788437604183-L.jpg"
+  },
+  {
+    "id": "libro-4",
+    "titulo": "EL LABERINTO DE LA SOLEDAD",
+    "isbn": "9789681613389",
+    "autorId": "autor-paz-uuiid-mock",
+    "paginas": 325,
+    "urlPortada": "https://covers.openlibrary.org/b/isbn/9789681613389-L.jpg"
+  },
+  {
+    "id": "libro-5",
+    "titulo": "RAYUELA",
+    "isbn": "9788437604572",
+    "autorId": "autor-cortazar-uuiid-mock",
+    "paginas": 600,
+    "urlPortada": "https://covers.openlibrary.org/b/isbn/9788437604572-L.jpg"
+  },
+  {
+    "id": "libro-6",
+    "titulo": "FICCIONES",
+    "isbn": "9788420633145",
+    "autorId": "autor-borges-uuiid-mock",
+    "paginas": 192,
+    "urlPortada": "https://covers.openlibrary.org/b/isbn/9788420633145-L.jpg"
+  },
+  {
+    "id": "libro-7",
+    "titulo": "EL ALEPH",
+    "isbn": "9788420633114",
+    "autorId": "autor-borges-uuiid-mock",
+    "paginas": 208,
+    "urlPortada": "https://covers.openlibrary.org/b/isbn/9788420633114-L.jpg"
+  }
+]
